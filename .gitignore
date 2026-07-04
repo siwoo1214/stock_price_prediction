@@ -1,0 +1,24 @@
+# Backend (Gradle/Java)
+backend/.gradle
+backend/build/
+backend/bin/
+backend/.idea
+backend/*.iml
+backend/out/
+
+# Frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
